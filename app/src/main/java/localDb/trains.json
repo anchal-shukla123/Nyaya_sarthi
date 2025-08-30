@@ -1,0 +1,48 @@
+{
+	  {
+					"trainId":"A887",
+					"trainNo":"2004",
+					"seats":[
+						[0,0,0,0,0],
+						[0,0,0,0,0],
+						[0,0,0,0,0],
+						[0,0,0,0,0],
+					],
+					"stationTime":{
+						"Rani Kmalapati":"13:50:00",
+						"Narmadapuram": "15:10:00",
+						"Itarsi":"16:00:00",
+						"Jabalpur":"18:00:00",
+						"Rewa":"23:50:00"
+					},
+					"Stations":[
+						"Narmadapuram",
+						"Itarsi",
+						"Jabalpur",
+						"Rewa"
+					]
+		}
+		{
+						"trainId":"A007",
+						"trainNo":"1976",
+						"seats":[
+							[0,0,0,0,0],
+							[0,0,1,0,0],
+							[0,0,0,0,0],
+							[0,1,0,0,0],
+						],
+						"stationTime":{
+							"Bilaspur":"13:50:00",
+							"Chennai": "15:10:00",
+							"Kota":"16:00:00",
+							"Jammu":"18:00:00",
+							"MountEverest":"23:50:00"
+						},
+						"Stations":[
+							"Bilaspur",
+							"Chennai",
+							"Kota",
+							"Jammu"
+						]
+					}
+}
